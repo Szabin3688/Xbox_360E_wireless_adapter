@@ -19,6 +19,9 @@ After you soldered the boards together, plug it in to the pc. Open the Device Ma
 ## Working on
 - Integrated 3.3v converter from the USB's 5v
 
+## Already tested wireless reciever boards
+- Xbox 360 E WIRELESS MODEL 1575
+
 
 ## Authors
 
