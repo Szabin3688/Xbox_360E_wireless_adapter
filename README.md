@@ -4,11 +4,11 @@ This project was made to convert a 360E wireless module from the console to a pc
 
 ## Getting Started
 
-First you'll nedd to order a pcb with the included pcb files, and solder it to the pcb.
+First you'll nedd to order a pcb with the included gerber files, and solder it to the pcb.
 
 
 ### Install
-After you soldered the boards together, plug it in to the pc. Open the Device Manager and you should see an unrecognized device. Right click on it and go to prperties. Go to Drivers. Click on "Update drivers". Then search on computer, then choose from the list. And try to find the Xbox 360 accessories. Click on it and select the xbox 360 wireless receiver. The device should work.
+After you have soldered the boards together, plug it in to the pc. Open the Device Manager and you should see an unrecognized device. Right click on it and go to prperties. Go to Drivers. Click on "Update drivers". Then search on computer, then choose from the list. And try to find the Xbox 360 accessories. Click on it and select the xbox 360 wireless receiver. The device should work.
 
 ## Other info
 - I didn't test it on macos, only windows
